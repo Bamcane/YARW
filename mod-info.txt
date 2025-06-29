@@ -1,0 +1,5 @@
+[mod]
+title: Yet Another RustedWarfare
+description: - 另一类铁锈\n- 开源在https://github.com/Bamcane/YARW
+minVersion:1.15p9
+tags:units
